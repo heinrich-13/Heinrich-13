@@ -14,7 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" width="8000"/>
-</div>
+  <row>
+    <col>
+      <div id="header" align="center">
+        <img src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" width="800"/>
+      </div>
+    </col>
+    <col>
+      <div id="header" align="center">
+        <img src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" width="800"/>
+      </div>
+    </col>
+  </row>
