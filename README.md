@@ -15,13 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" width="200"/>
+  <row>
+    <col>
+      <img src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" width="200"/>
+    </col
+  </row
   <div id="badges">
-    <a href="https://www.linkedin.com/in/heinrich-stoltz-487030a0">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a>
+    <row>
+      <col>
+        <a href="https://www.linkedin.com/in/heinrich-stoltz-487030a0">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+        </a>
       <img src="https://komarev.com/ghpvc/?username=heinrich-13&style=flat-square&color=blue" alt=""/>
-    </a>
   </div>
 </div>
