@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="header" align="right">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" width="200"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/heinrich-stoltz-487030a0">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
 </div>
