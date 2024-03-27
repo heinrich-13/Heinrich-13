@@ -5,7 +5,7 @@
 ### Talking about Personal Stuff:
 
 - 🛠 &nbsp; I’m currently working with JS, TS, PHP, Laravel.
-- 📫 &nbsp; Reach me out: heinrichstoltz@icloud.com.
+- 📫 &nbsp; Reach out to me: heinrichstoltz@icloud.com.
 
 ### Languages and Tools:
 
